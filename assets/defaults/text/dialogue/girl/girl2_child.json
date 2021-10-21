@@ -1,0 +1,62 @@
+{
+	"spring_Mon": "XXPLAYERXX, I love you!$h",
+	"spring_Tue": "I think %pet loves the flowers!#$b#Should I pick some for XXNPCXX? Does XXNPC-HE-SHEXX like them too?",
+	"spring_Wed": "XXPLAYERXX, I love you!$h",
+	"spring_Thu": "I think %pet loves the flowers!#$b#Should I pick some for XXNPCXX? Does XXNPC-HE-SHEXX like them too?",
+	"spring_Fri": "Can you get me some Junimon cards? I wanna play with Vincent and Jas!",
+	"spring_Sat": "Vincent said that videogames are for boys.$a#$b#He's probably just mad because I beat him a lot!$h",
+	"spring_Sun": "Can you get me some Junimon cards? I wanna play with Vincent and Jas!",
+
+	"summer_Mon": "Can we go swim during the weekend? I'll take my special floaties and promise not to take them off.",
+	"summer_Tue": "Do you want me to take %pet for a walk?#$b#No, I don't want anything!$h",
+	"summer_Wed": "Can we go swim during the weekend? I'll take my special floaties and promise not to take them off.",
+	"summer_Thu": "Do you want me to take %pet for a walk?#$b#No, I don't want anything!$h",
+	"summer_Fri": "Can we go on a trip this year? I wanna go to Ginger Island!",
+	"summer_Sat": "I think I saw a mermaid the other day!$h#$b#XXNPCXX said that they're real!",
+	"summer_Sun": "Can we go on a trip this year? I wanna go to Ginger Island!",
+
+	"fall_Mon": "All the other kids were saying they hate veggies, but I don't! I really, really like corn for example.#$b#Corn on the cob, steamed corn, candy corn...$h#$b#What do you mean that doesn't count?$a",
+	"fall_Tue": "How many more days until Spirit's Eve, XXPLAYERXX?",
+	"fall_Wed": "All the other kids were saying they hate veggies, but I don't! I really, really like corn for example.#$b#Corn on the cob, steamed corn, candy corn...$h#$b#What do you mean that doesn't count?$a",
+	"fall_Thu": "How many more days until Spirit's Eve, XXPLAYERXX?",
+	"fall_Fri": "Can we go apple picking this year?",
+	"fall_Sat": "Vincent was playing with bugs the other day and I think I saw him eat one....$a",
+	"fall_Sun": "Can we go apple picking this year?",
+
+	"winter_Mon": "If it snows today, can we make a snowman?#$b#Make it even BIGGER than last time. The biggest snowman the Valley's ever seen!$h",
+	"winter_Tue": "BRRR! It's so cold! Can I just wear my blankey around all day?",
+	"winter_Wed": "If it snows today, can we make a snowman?#$b#Make it even BIGGER than last time. The biggest snowman the Valley's ever seen!$h",
+	"winter_Thu": "BRRR! It's so cold! Can I just wear my blankey around all day?",
+	"winter_Fri": "XXPLAYERXX, can you make me a cup of hot chocolate?#$b#I promise I won't spill this time!$h",
+	"winter_Sat": "XXPLAYERXX, can we go make snow angels?",
+	"winter_Sun": "XXPLAYERXX, can you make me a cup of hot chocolate?#$b#I promise I won't spill this time!$h",
+
+	// Egg Festival
+	"spring_12_2": "I hope I find more eggs than Miss Abigail this year!",
+	"spring_13_2": "Want to know where me, Jas, and XXNPCXX hid our eggs?$h#$b#I'm not telling!",
+	// Flower Dance
+	"spring_23_2": "Mister Clint always stands there all alone during the dance.#$b#He's kinda weird.$s",
+	"spring_24_2": "Miss Haley showed me her dress. It was so beautiful!$h#$b#I want one like that when I grow up!",
+
+	// Luau
+	"summer_10_2": "Mmmm... I'm gonna dream of yummy soup tonight!$h",
+	"summer_11_2": "The soup was too hot. I think I burnt my tongue.$s",
+	// Dance of the Moonlight Jellies
+	"summer_27_2": "Do you think any mermaids will come to see the Jellies this year? XXNPCXX said they might!$h",
+	"summer_28_2": "I'm excited because today we get to stay up extra late and watch the Jellies!$h",
+
+	// Stardew Valley Fair
+	"fall_15_2": "I can't wait to see what everyone brought this year to the Fair!$h#$e#Jas says Auntie Marnie's is gonna be really amazing!$h",
+	"fall_16_2": "Mayor Lewis said lots of people come from out of town to go to the Fair.#$b#I hope the strangers are nice....$s",
+	// Spirit's Eve
+	"fall_26_2": "I hope I get lots of chocolate tomorrow!",
+	"fall_27_2": "What if I'm not brave enough to go into the maze this year?$s",
+
+	// Festival of Ice
+	"winter_7_2": "Walking on the frozen water is so cool!",
+	"winter_8_2": "I don't think XXNPCXX knows how to fish very good....",
+	// Feast of the Winter Star
+	"winter_24_2": "I think this year I want a new baby sibling.$h#$b#Wait, where do babies come from?",
+	"winter_25_2": "Hmm? Oh, I'm busy.#$b#I'm getting ready. I've got to look my best for the Feast!$h"
+
+}

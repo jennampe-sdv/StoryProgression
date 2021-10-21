@@ -1,0 +1,54 @@
+{
+	"additions": [
+		{
+			"templateName": "SPDEFAULT_light_boy1_c",
+			"templateValue": "Aww, XXPLAYERXX... I love you too!$h/221 595 604/This looks really nice! Thank you!/18 60 64 70 88 232 233 234 222 223 340 344 402 418 903/Uh... did you mean to give this to XXNPCXX?/-5 -81 -75 -79 80/Did I do something wrong, XXPLAYERXX?$s/253 395 459 -26 2 16 330 873/Thank you!//"
+
+		},
+		{
+			"templateName": "SPDEFAULT_dark_boy1_c",
+			"templateValue": "Aww, XXPLAYERXX... I love you too!$h/221 595 604/This looks really nice! Thank you!/18 60 64 70 88 232 233 234 222 223 340 344 402 418 903/Uh... did you mean to give this to XXNPCXX?/-5 -81 -75 -79 80/Did I do something wrong, XXPLAYERXX?$s/253 395 459 -26 2 16 330 873/Thank you!//"
+
+		},
+		{
+			"templateName": "SPDEFAULT_light_boy2_c",
+			"templateValue": "This is so cool! I wanna go show XXNPCXX!$h/221 398 612 721 903/A gift? No way!/18 60 64 70 88 232 233 234 222 223 340 344 402 418/What is this for...?$s/-5 -75 -79 -81 80/You said we weren't allowed to do mean pranks!$a/253 395 459 -26 2 16 330 873/Thanks, XXPLAYERXX!//"
+		},
+		{
+			"templateName": "SPDEFAULT_dark_boy2_c",
+			"templateValue": "This is so cool! I wanna go show XXNPCXX!$h/221 398 612 721 903/A gift? No way!/18 60 64 70 88 232 233 234 222 223 340 344 402 418/What is this for...?$s/-5 -75 -79 -81 80/You said we weren't allowed to do mean pranks!$a/253 395 459 -26 2 16 330 873/Thanks, XXPLAYERXX!//"
+		},
+		{
+			"templateName": "SPDEFAULT_light_boy3_c",
+			"templateValue": "I just love seeing what our animals can make!$h/-6 340 424 426 428 445 447/Oh, weird! I had a dream you'd give me something like this.$h/852 396 392 394 397/Am I supposed to take this to the trash for you, XXPLAYERXX?/-7 -81 2 330 303 459 342 346 348/I know you said to be grateful for every gift, but...$s/257 253 247 271 283 304 303 346 873 348 459 167/Oh! Thanks./-4/"
+		},
+		{
+			"templateName": "SPDEFAULT_dark_boy3_c",
+			"templateValue": "I just love seeing what our animals can make!$h/-6 340 424 426 428 445 447/Oh, weird! I had a dream you'd give me something like this.$h/852 396 392 394 397/Am I supposed to take this to the trash for you, XXPLAYERXX?/-7 -81 2 330 303 459 342 346 348/I know you said to be grateful for every gift, but...$s/257 253 247 271 283 304 303 346 873 348 459 167/Oh! Thanks./-4/"
+		},
+		{
+			"templateName": "SPDEFAULT_light_girl1_c",
+			"templateValue": "Aww, XXPLAYERXX... I love you too!$h/221 595 604/This looks really nice! Thank you!/18 60 64 70 88 232 233 234 222 223 340 344 402 418 903/Uh... did you mean to give this to XXNPCXX?/-5 -81 -75 -79 80/Did I do something wrong, XXPLAYERXX?$s/253 395 459 -26 2 16 330 873/Thank you!//"
+		},
+		{
+			"templateName": "SPDEFAULT_dark_girl1_c",
+			"templateValue": "Aww, XXPLAYERXX... I love you too!$h/221 595 604/This looks really nice! Thank you!/18 60 64 70 88 232 233 234 222 223 340 344 402 418 903/Uh... did you mean to give this to XXNPCXX?/-5 -81 -75 -79 80/Did I do something wrong, XXPLAYERXX?$s/253 395 459 -26 2 16 330 873/Thank you!//"
+		},
+		{
+			"templateName": "SPDEFAULT_light_girl2_c",
+			"templateValue": "This is so cool! I wanna go show XXNPCXX!$h/221 398 612 721 903/A gift? No way!/18 60 64 70 88 232 233 234 222 223 340 344 402 418/What is this for...?$s/-5 -75 -79 -81 80/You said we weren't allowed to do mean pranks!$a/253 395 459 -26 2 16 330 873/Thanks, XXPLAYERXX!//"
+		},
+		{
+			"templateName": "SPDEFAULT_dark_girl2_c",
+			"templateValue": "This is so cool! I wanna go show XXNPCXX!$h/221 398 612 721 903/A gift? No way!/18 60 64 70 88 232 233 234 222 223 340 344 402 418/What is this for...?$s/-5 -75 -79 -81 80/You said we weren't allowed to do mean pranks!$a/253 395 459 -26 2 16 330 873/Thanks, XXPLAYERXX!//"
+		},
+		{
+			"templateName": "SPDEFAULT_light_girl3_c",
+			"templateValue": "I just love seeing what our animals can make!$h/-6 340 424 426 428 445 447/Oh, weird! I had a dream you'd give me something like this.$h/852 396 392 394 397/Am I supposed to take this to the trash for you, XXPLAYERXX?/-7 -81 2 330 303 459 342 346 348/I know you said to be grateful for every gift, but...$s/257 253 247 271 283 304 303 346 873 348 459 167/Oh! Thanks./-4/"
+		},
+		{
+			"templateName": "SPDEFAULT_dark_girl3_c",
+			"templateValue": "I just love seeing what our animals can make!$h/-6 340 424 426 428 445 447/Oh, weird! I had a dream you'd give me something like this.$h/852 396 392 394 397/Am I supposed to take this to the trash for you, XXPLAYERXX?/-7 -81 2 330 303 459 342 346 348/I know you said to be grateful for every gift, but...$s/257 253 247 271 283 304 303 346 873 348 459 167/Oh! Thanks./-4/"
+		}
+	]
+}

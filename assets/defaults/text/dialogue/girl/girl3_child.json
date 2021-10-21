@@ -1,0 +1,62 @@
+{
+	"spring_Mon": "I'm learning to hum to help the birds sing.",
+	"spring_Tue": "Miss Evelyn asked if I could help her water the plants around town.",
+	"spring_Wed": "I'm learning to hum to help the birds sing.",
+	"spring_Thu": "Miss Evelyn asked if I could help her water the plants around town.",
+	"spring_Fri": "Have you ever heard of Ridgeside Village? I heard Mister George talking about it to XXNPCXX the other day.#$b#It could be a fun trip for Spring Break!$h#$e#Have you decided about the Spring Break trip yet?",
+	"spring_Sat": "Jas heard something about 'the birds and the bees.'#$b#What do you think she meant?",
+	"spring_Sun": "Have you ever heard of Ridgeside Village? I heard Mister George talking about it to XXNPCXX the other day.#$b#It could be a fun trip for Spring Break!$h#$e#Have you decided about the Spring Break trip yet?",
+
+	"summer_Mon": "Sun, sun, shiny Mr. Sun! I made that song up myself!$h",
+	"summer_Tue": "I saw Mister Demetrius talking to himself and scribbling in a notebook yesterday. Is that normal?",
+	"summer_Wed": "Sun, sun, shiny Mr. Sun! I made that song up myself!$h",
+	"summer_Thu": "I saw Mister Demetrius talking to himself and scribbling in a notebook yesterday. Is that normal?",
+	"summer_Fri": "I think we need to get more food for %pet. They look really hungry!$s",
+	"summer_Sat": "It's the weekend! Can we go swimming?",
+	"summer_Sun": "I think we need to get more food for %pet. They look really hungry!$s",
+
+	"fall_Mon": "Jas and I made this bracelet, isn't it cute?$h",
+	"fall_Tue": "I think I wanna be an astronaut this year.#$b#NO. A chef!#$b#Ballerina chef in space?$h",
+	"fall_Wed": "Jas and I made this bracelet, isn't it cute?$h",
+	"fall_Thu": "I think I wanna be an astronaut this year.#$b#NO. A chef!#$b#Ballerina chef in space?$h",
+	"fall_Fri": "XXPLAYERXX, when are we carving pumpkins?",
+	"fall_Sat": "XXNPCXX said the air is crisp. How can air be crisp?",
+	"fall_Sun": "XXPLAYERXX, when are we carving pumpkins?",
+
+	"winter_Mon": "I don't like when it snows and I can't play with Jas.$s",
+	"winter_Tue": "XXNPCXX made some warm oatmeal for breakfast. It had dinosaurs!",
+	"winter_Wed": "I don't like when it snows and I can't play with Jas.$s",
+	"winter_Thu": "XXNPCXX made some warm oatmeal for breakfast. It had dinosaurs!",
+	"winter_Fri": "I love winter. I just wish it wasn't so cold out all the time....$s#$b#But then I guess it couldn't snow!$h",
+	"winter_Sat": "Can I give %pet a haircut? Or maybe you?$h",
+	"winter_Sun": "I love winter. I just wish it wasn't so cold out all the time....$s#$b#But then I guess it couldn't snow!$h",
+
+	// Egg Festival
+	"spring_12_2": "Miss Abigail always wins the egg hunt....$s#$b#But this year it's my turn!$h",
+	"spring_13_2": "What came first, the chicken or the egg?",
+	// Flower Dance
+	"spring_23_2": "Do you think XXNPCXX will dance with me tomorrow?#$b#If XXNPC-HE-SHEXX says no, I'll dance with you, XXPLAYERXX!$h",
+	"spring_24_2": "I don't think Mister Sebastian knows how to dance....",
+
+	// Luau
+	"summer_10_2": "I hope Vincent doesn't put anything weird in the soup again....$a",
+	"summer_11_2": "Do you think the Luau soup is sanitary?#$b#That is one of our vocabulary words this week.$h",
+	// Dance of the Moonlight Jellies
+	"summer_27_2": "Vincent said that jellyfish are madea of real jelly. Is that true...?",
+	"summer_28_2": "I'm a little worried I will slip in the dark and fall off the dock....#$b#And Vincent said the Jellies can sting you!$s",
+
+	// Stardew Valley Fair
+	"fall_15_2": "What do you think Mister George's stand would look like if he had one...?",
+	"fall_16_2": "Why do we have the Fair? I thought showing off was rude?",
+	// Spirit's Eve
+	"fall_26_2": "Are we going to carve pumpkins today? I have a lot of ideas!$h",
+	"fall_27_2": "Jas said last year Mister Sebastian jumped out and scared her and she ran away.#$b#Is that mean or funny?",
+
+	// Festival of Ice
+	"winter_7_2": "Yesterday I almost slipped and fell. I hope I don't tomorrow in front of everyone....$s",
+	"winter_8_2": "Are you sure the ice is thick enough to walk on?$s",
+	// Feast of the Winter Star
+	"winter_24_2": "XXPLAYERXX, your eyes twinkle brighter than the Winter Star!$h#$b#XXNPCXX told me to say that.",
+	"winter_25_2": "Vincent says Mister Clint usually gives his secret friend a hunk of metal. Do people like that stuff?"
+
+}

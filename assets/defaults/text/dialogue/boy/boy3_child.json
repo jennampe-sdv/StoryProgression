@@ -1,0 +1,62 @@
+{
+	"spring_Mon": "Vincent has been saying 'let's jelly' a lot. It's weird.#$b#Oh, you think he means 'let's jam'?",
+	"spring_Tue": "I like spring. Not too hot... not to cold....$h",
+	"spring_Wed": "Vincent has been saying 'let's jelly' a lot. It's weird.#$b#Oh, you think he means 'let's jam'?",
+	"spring_Thu": "I like spring. Not too hot... not to cold....$h",
+	"spring_Fri": "Hey, XXPLAYERXX, what kind of flowers do you think Jas likes?",
+	"spring_Sat": "Vincent said I should get my hair cut into a mohawk like the guys in Zuzu City.",
+	"spring_Sun": "Hey, XXPLAYERXX, what kind of flowers do you think Jas likes?",
+
+	"summer_Mon": "I can't wait to see the Moonlight Jellies this year!$h#$b#Do you think I can catch one...?",
+	"summer_Tue": "I saw a mermaid yesterday. She was really pretty!$h",
+	"summer_Wed": "I can't wait to see the Moonlight Jellies this year!$h#$b#Do you think I can catch one...?",
+	"summer_Thu": "I saw a mermaid yesterday. She was really pretty!$h",
+	"summer_Fri": "Vincent's brother plays in a band with Mister Sebastian. Isn't that cool?$h#$e#Can we go watch them sometime?",
+	"summer_Sat": "Are Junimo real XXPLAYERXX?#$b#Have you ever seen one?$h#$e#I hope I can see a Junimo one day!",
+	"summer_Sun": "Vincent's brother plays in a band with Mister Sebastian. Isn't that cool?$h#$e#Can we go watch them sometime?",
+
+	"fall_Mon": "Ugh... I like Miss Penny but do I really have to go back to school? When's Winter vacation?$a",
+	"fall_Tue": "Can you buy me a guitar#?$b#I wanna play in a band when I grow up!$h",
+	"fall_Wed": "Ugh... I like Miss Penny but do I really have to go back to school? When's Winter vacation?$a",
+	"fall_Thu": "Can you buy me a guitar?#$b#I wanna play in a band when I grow up!$h",
+	"fall_Fri": "I think %pet went to the bathroom in the field.#$b#Do I have to pick it up?$s",
+	"fall_Sat": "Orange, orange, orange.... It's a really funny word, don't you think?#$b#So is Pumpkin....",
+	"fall_Sun": "I think %pet went to the bathroom in the field.#$b#Do I have to pick it up?$s",
+
+	"winter_Mon": "It's too cold out! Can we light the fireplace tonight?",
+	"winter_Tue": "Did you know nothing rhymes with silver? That's what XXNPCXX told me!",
+	"winter_Wed": "It's too cold out! Can we light the fireplace tonight?",
+	"winter_Thu": "Did you know nothing rhymes with silver? That's what XXNPCXX told me!",
+	"winter_Fri": "What's a snow angel?#$b#... oh. That's less exciting than I imagined.$a",
+	"winter_Sat": "I caught a snowflake on my tongue the other day!$h",
+	"winter_Sun": "What's a snow angel?#$b#... oh. That's less exciting than I imagined.$a",
+
+	// Egg Festival
+	"spring_12_2": "I like the Egg Festival because there's no dancing.$h",
+	"spring_13_2": "I think I saw that weird guy who lives in the tent stealing eggs....$s",
+	// Flower Dance
+	"spring_23_2": "I bet Miss Penny will have a really pretty dress... what?",
+	"spring_24_2": "Vincent wants to dance with Jas, so I'm gonna be by myself....$s",
+
+	// Luau
+	"summer_10_2": "Is that smelly Governor guy gonna be here again this year?#$e#He smells like old people!",
+	"summer_11_2": "Last time I tried sneaking a shoe into the pot but Mayor Lewis caught me....$s",
+	// Dance of the Moonlight Jellies
+	"summer_27_2": "Vincent says the Jellies are all weird and squishy.#$b#Jas said it was gross but I think that's awesome!$h",
+	"summer_28_2": "Do you think %pet would be afraid of the Jellies?",
+
+	// Stardew Valley Fair
+	"fall_15_2": "Mister Gunther should make a stand!#$b#He has all sorts of cool stuff in the library.$h#$e#I bet he has a whole dinosaur fossil!$h",
+	"fall_16_2": "I'm so excited! This is the year I smash the Smashing Stone!$h",
+	// Spirit's Eve
+	"fall_26_2": "Boo! Did I get you? I'm working on my scares for tomorrow!",
+	"fall_27_2": "Boo! Hahaha, I scared you, didn't I?",
+
+	// Festival of Ice
+	"winter_7_2": "Ice-fishing doesn't hurt the fish? Right?",
+	"winter_8_2": "Can we go home early from the Festival? I wanna play Junimo Kart.",
+	// Feast of the Winter Star
+	"winter_24_2": "I've been really good this year. That means I'll get lots of presents, right?$h",
+	"winter_25_2": "How many more days until next Feast of the Winter Star?"
+
+}

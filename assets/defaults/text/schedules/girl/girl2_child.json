@@ -1,0 +1,8 @@
+{
+  "rain": "700 WAKEUP/2000 SLEEP",
+  "summer": "700 WAKEUP/2030 SLEEP",
+  "Tue": "640 WAKEUP/840 BusStop 2 24 1/900 ArchaeologyHouse 15 9 1/1400 Town 90 101 2/1620 Town 17 91 3/1730 HOME/2000 SLEEP",
+  "Wed": "GOTO Tue",
+  "Fri": "GOTO Tue",
+  "Sat": "700 WAKEUP/840 BusStop 2 24 1/1130 Town 11 13 2 jas_jumprope/1700 Town 33 90 1 square_2_2/1740 HOME/2000 SLEEP"
+}

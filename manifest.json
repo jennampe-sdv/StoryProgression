@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Story Progression",
+  "Author": "jennampe",
+  "Version": "1.0.0",
+  "Description": "A framework for adding dynamic story progression content.",
+  "UniqueID": "jennampe.StoryProg",
+  "EntryDll": "StoryProgression.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+   { "UniqueID": "Pathoschild.ContentPatcher", "IsRequired": false }
+]
+}

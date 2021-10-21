@@ -1,0 +1,62 @@
+{
+	"spring_Mon": "Can I go play with Jas and Vince today? Pretty please?",
+	"spring_Tue": "I hope I get to be flower queen this year!$h",
+	"spring_Wed": "Can I go play with Jas and Vince today? Pretty please?",
+	"spring_Thu": "I hope I get to be flower queen this year!$h",
+	"spring_Fri": "I really think Joja Cola is kinda gross.$a",
+	"spring_Sat": "Jas said Mister Shane didn't come home last night.... I hope he's okay.... $s",
+	"spring_Sun": "I really think Joja Cola is kinda gross.$a",
+
+	"summer_Mon": "It's so hot today! Will you help me and XXNPCXX to make some frozen lollies?#$b#I asked and XXNPC-HE-SHEXX said we could use the Blueberries we grow this season!",
+	"summer_Tue": "Hhh... XXPLAYERXX, it's so hot outside...$s",
+	"summer_Wed": "It's so hot today! Will you help me and XXNPCXX to make some frozen lollies?#$b#I asked and XXNPC-HE-SHEXX said we could use the Blueberries we grow this season!",
+	"summer_Thu": "Hhh... XXPLAYERXX, it's so hot outside...$s",
+	"summer_Fri": "When I grow up, do I have to get married?#$b#Kissing is just so weird.$a",
+	"summer_Sat": "Can we go to the store today XXPLAYERXX? I wanted to get stuff to make a cake for XXNPCXX!#$b#I'm not sure, XXNPC-SHE-HEXX seemed kinda down yesterday.$s",
+	"summer_Sun": "When I grow up, do I have to get married?#$b#Kissing is just so weird.$a",
+
+	"fall_Mon": "Vincent asked me to make leaf piles with him.#$b#I don't know if I want to... he smells funny.",
+	"fall_Tue": "Doo lee doo lee doo.... XXPLAYERXX, come dance with me!$h",
+	"fall_Wed": "Vincent asked me to make leaf piles with him.#$b#I don't know if I want to... he smells funny.",
+	"fall_Thu": "Doo lee doo lee doo.... XXPLAYERXX, come dance with me!$h",
+	"fall_Fri": "Is it okay if I go help Miss Evelyn rake her yard today?",
+	"fall_Sat": "Miss Abigail helps me practice Journey of the Prairie King.#$b#Next time I'm gonna kick Vincent's butt!$h",
+	"fall_Sun": "Is it okay if I go help Miss Evelyn rake her yard today?",
+
+	"winter_Mon": "I'm thinking about wearing my special rainbow socks under my boots today.#$b#You can't get cold when you wear special socks!$h",
+	"winter_Tue": "I'm thinking about starting to write my list for Winter Star early. I have so many pretty stickers in mind!",
+	"winter_Wed": "I'm thinking about wearing my special rainbow socks under my boots today.#$b#You can't get cold when you wear special socks!$h",
+	"winter_Thu": "I'm thinking about starting to write my list for Winter Star early. I have so many pretty stickers in mind!",
+	"winter_Fri": "I love the weekend because you, XXNPCXX , and me all get to cuddle by the fire.",
+	"winter_Sat": "Miss Penny is going to teach us how to make a snowman this year.#$b#She's so nice!$h",
+	"winter_Sun": "I love the weekend because you, XXNPCXX , and me all get to cuddle by the fire.",
+
+	// Egg Festival
+	"spring_12_2": "Is it okay if I go paint eggs with Jas and Vincent?",
+	"spring_13_2": "Hey, XXPLAYERXX, look here! Can you tell which eggs I painted?$h",
+	// Flower Dance
+	"spring_23_2": "I can't wait to see all the dresses tomorrow. I hear Miss Emily always makes her own!$h",
+	"spring_24_2": "Mister George always looks so sad...$s#$b#Do you know why?",
+
+	// Luau
+	"summer_10_2": "What kind of flower would taste best in the soup?#$b#Maybe I should pick one of each!$h",
+	"summer_11_2": "Can we take some soup home for %pet?",
+	// Dance of the Moonlight Jellies
+	"summer_27_2": "Miss Haley said I can use her camera to take pictures of the Moonlight Jellies!$h",
+	"summer_28_2": "The Jellies are so pretty! I wish we had one!$h",
+
+	// Stardew Valley Fair
+	"fall_15_2": "XXPLAYERXX, do you need any help setting up the stand this year? I can help!",
+	"fall_16_2": "I'm gonna win all the Star Tokens and get all the prizes!$h",
+	// Spirit's Eve
+	"fall_26_2": "Jas wanted to go as princesses tomorrow.#$b#I think that might be a little TOO girly....",
+	"fall_27_2": "Hey, XXPLAYERXX, can we go find the pumpkin I carved?",
+
+	// Festival of Ice
+	"winter_7_2": "I'm gonna try ice skating tomorrow! Can you watch me?",
+	"winter_8_2": "Ewww... fish kinda smell really bad.$s",
+	// Feast of the Winter Star
+	"winter_24_2": "What's your favorite Feast of the Winter Star song?",
+	"winter_25_2": "The tree in the town square is so pretty this year! I snuck out to look at it!$h"
+
+}

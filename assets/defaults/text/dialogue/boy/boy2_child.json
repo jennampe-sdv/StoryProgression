@@ -1,0 +1,62 @@
+{
+	"spring_Mon": "Every Wednesday Miss Abigail goes to the graveyard. I wonder what she's doing?",
+	"spring_Tue": "*sniff* *sniff* I think the pollen is getting to me.",
+	"spring_Wed": "Every Wednesday Miss Abigail goes to the graveyard. I wonder what she's doing?",
+	"spring_Thu": "*sniff* *sniff* I think the pollen is getting to me.",
+	"spring_Fri": "Jas said her aunt is taking her to East Scarp for Spring Break. Can we go sometime?",
+	"spring_Sat": "I heard some people talking about Vincent's dad by the bus the other day.#$b#Do you think everything's okay?$s",
+	"spring_Sun": "Jas said her aunt is taking her to East Scarp for Spring Break. Can we go sometime?",
+
+	"summer_Mon": "Isn't that fisherman guy's birthday in the Summer?",
+	"summer_Tue": "Abigail said I couldn't beat her score on Journey of the Prairie King.$s#$b#She must not know how good I am!$h",
+	"summer_Wed": "Isn't that fisherman guy's birthday in the Summer?",
+	"summer_Thu": "Abigail said I couldn't beat her score on Journey of the Prairie King.$s#$b#She must not know how good I am!$h",
+	"summer_Fri": "Mister Gus said that next time he has any extra pizza, he'll give it to me!$h",
+	"summer_Sat": "I thought I saw some weird apple person in the woods yesterday.$s#$b#Turns out it was just a rusty bucket!$h",
+	"summer_Sun": "Mister Gus said that next time he has any extra Pizza, he'll give it to me!$h",
+
+	"fall_Mon": "XXNPCXX said I can have extra chore money if I go rake leaves.$h",
+	"fall_Tue": "Do you think Superguy would make a good costume?",
+	"fall_Wed": "XXNPCXX said I can have extra chore money if I go rake leaves.$h",
+	"fall_Thu": "Do you think Superguy would make a good costume?",
+	"fall_Fri": "Can we watch scary movies tonight?",
+	"fall_Sat": "Can you get me the new Junimo Kart? I'm bored of all the games I have.$a",
+	"fall_Sun": "Can we watch scary movies tonight?",
+
+	"winter_Mon": "Hey, XXPLAYERXX, do you think I'll get a Transmorpher for Winter Star this year?",
+	"winter_Tue": "What do you think Jas wants for Winter Star this year?#$b#What? I'm asking because Vincent wants to know!$a",
+	"winter_Wed": "Hey, XXPLAYERXX, do you think I'll get a Transmorpher for Winter Star this year?",
+	"winter_Thu": "What do you think Jas wants for Winter Star this year?#$b#What? I'm asking because Vincent wants to know!$a",
+	"winter_Fri": "I like Missus Evelyn.#$b#She always has a bowl of candy!$h",
+	"winter_Sat": "I'm not cold... I promise!#$b#Okay, maybe just a little.#$e#Can I have en extra sweater?",
+	"winter_Sun": "I like Missus Evelyn.#$b#She always has a bowl of candy!$h",
+
+	// Egg Festival
+	"spring_12_2": "I used to think that painted eggs came from painted chickens.#$b#But that was back when I was a little kid!$h",
+	"spring_13_2": "Bleh! Eggs taste so gross!$a",
+	// Flower Dance
+	"spring_23_2": "Do I have to go to the flower dance this year?#$b#Vincent says it's for girls....$s.",
+	"spring_24_2": "Do you think XXNPCXX would get mad if you danced with someone else?",
+
+	// Luau
+	"summer_10_2": "Can't wait for the soup tomorrow... hehehe....$h",
+	"summer_11_2": "Don't tell anyone, but me and Vincent are gonna put bugs in Sam's soup!$h",
+	// Dance of the Moonlight Jellies
+	"summer_27_2": "Hey, XXPLAYERXX, have you ever caught a Jellyfish before?",
+	"summer_28_2": "Vincent said we should push Sam into the water... is that mean or fun? Or both?",
+
+	// Stardew Valley Fair
+	"fall_15_2": "I bet if Mister George had a stand at the fair it would be full of mothballs and hard candies!$h",
+	"fall_16_2": "XXNPCXX told me that costumes are only for Spirit's Eve.$a#$b#I think costumes are for every Festival!",
+	// Spirit's Eve
+	"fall_26_2": "Jas asked if we could go as Michael and Melinda Mouse tomorrow.#$b#I don't get it, why go as almost the same person?",
+	"fall_27_2": "Boys and girls of every age, wouldn't you like to see something strange?#$b#Come with us and you will see, this our town of Spirit's Eve!#$b#...why are you looking at me?",
+
+	// Festival of Ice
+	"winter_7_2": "Can I keep one of the fish tomorrow? Pretty please?",
+	"winter_8_2": "It's really cold today... good weather for the ice-fishing competition!",
+	// Feast of the Winter Star
+	"winter_24_2": "Can I get my present early tomorrow?",
+	"winter_25_2": "I can't wait to see what I got this year!$h#$e#I hope it's Junimo Kart II!"
+
+}

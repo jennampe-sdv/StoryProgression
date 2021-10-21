@@ -1,0 +1,52 @@
+{
+	"additions": [
+		{
+			"templateName": "SPDEFAULT_light_boy1_c",
+			"templateValue": "I hope it's nicer tomorrow. Me, Jas, and Vincent are supposed to go explore the sewer!"
+		},
+		{
+			"templateName": "SPDEFAULT_dark_boy1_c",
+			"templateValue": "I hope it's nicer tomorrow. Me, Jas, and Vincent are supposed to go explore the sewer!"
+		},
+		{
+			"templateName": "SPDEFAULT_light_boy2_c",
+			"templateValue": "Can I take %pet outside?#$b#I promise I won't let them jump in the puddles!$h"
+		},
+		{
+			"templateName": "SPDEFAULT_dark_boy2_c",
+			"templateValue": "Can I take %pet outside?#$b#I promise I won't let them jump in the puddles!$h"
+		},
+		{
+			"templateName": "SPDEFAULT_light_boy3_c",
+			"templateValue": "Can I just stay inside and play games today?",
+		},
+		{
+			"templateName": "SPDEFAULT_dark_boy3_c",
+			"templateValue": "Can I just stay inside and play games today?",
+		},
+		{
+			"templateName": "SPDEFAULT_light_girl1_c",
+			"templateValue": "%pet doesn't like this weather very much. I think it scares them!$s"
+		},
+		{
+			"templateName": "SPDEFAULT_dark_girl1_c",
+			"templateValue": "%pet doesn't like this weather very much. I think it scares them!$s"
+		},
+		{
+			"templateName": "SPDEFAULT_light_girl2_c",
+			"templateValue": "I hope that poor man that lives in the tent isn't getting rained on.$s"
+		},
+		{
+			"templateName": "SPDEFAULT_dark_girl2_c",
+			"templateValue": "I hope that poor man that lives in the tent isn't getting rained on.$s"
+		},
+		{
+			"templateName": "SPDEFAULT_light_girl3_c",
+			"templateValue": "It's really gross outside. But I like listening to the frogs."	
+		},
+		{
+			"templateName": "SPDEFAULT_dark_girl3_c",
+			"templateValue": "It's really gross outside. But I like listening to the frogs."	
+		}
+	]
+}

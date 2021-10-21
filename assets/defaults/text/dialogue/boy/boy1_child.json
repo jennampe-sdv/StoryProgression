@@ -1,0 +1,62 @@
+{
+	"spring_Mon": "I hope that and Vincent get to adventure in the forest today!$h",
+	"spring_Tue": "I can't wait to go puddle jumping!$h#$b#Oh, and frog catching too!",
+	"spring_Wed": "I hope that and Vincent get to adventure in the forest today!$h",
+	"spring_Thu": "I can't wait to go puddle jumping!$h#$b#Oh, and frog catching too!",
+	"spring_Fri": "Can I eat dinner over at Vincent's house tonight?#$b#His mom's a really good cook and she's making Lasagna!$h",
+	"spring_Sat": "Did you know that, if you rearrange the letters in Pelican Town, you get Let Panic Own?#$b#Isn't that awesome?$h",
+	"spring_Sun": "Can I eat dinner over at Vincent's house tonight?#$b#His mom's a really good cook and she's making Lasagna!$h",
+
+	"summer_Mon": "Can I take %pet to the beach today?",
+	"summer_Tue": "Are we gonna have Melons this year?",
+	"summer_Wed": "Can I take %pet to the beach today?",
+	"summer_Thu": "Are we gonna have Melons this year?",
+	"summer_Fri": "I like shorts! They're comfy and easy to wear!",
+	"summer_Sat": "I need more Junimon cards. Then I will beat Vincent for sure!$h",
+	"summer_Sun": "I like shorts! They're comfy and easy to wear!",
+
+	"fall_Mon": "Miss Penny showed us how to make hand turkeys today!",
+	"fall_Tue": "Can you help me work on my costume for Spirit's Eve?#$b#I want to go as a guy from My Superhero Academy this year!$h",
+	"fall_Wed": "Miss Penny showed us how to make hand turkeys today!",
+	"fall_Thu": "Can you help me work on my costume for Spirit's Eve?#$b#I want to go as a guy from My Superhero Academy this year!$h",
+	"fall_Fri": "I swear I saw a blue chicken yesterday! Does that mean it lays blue eggs?$h",
+	"fall_Sat": "All your base are belong to us!#$b#What? I heard that on TV.",
+	"fall_Sun": "I swear I saw a blue chicken yesterday! Does that mean it lays blue eggs?$h",
+
+	"winter_Mon": "Vincent got Journey of the Prairie King Part II: The Revenge of Fector's Vengeance for Winter Star last year.#$b#I can't wait to play it again!$h",
+	"winter_Tue": "Can we make hot chocolate today? That would be super cool!$h",
+	"winter_Wed": "Vincent got Journey of the Prairie King Part II: The Revenge of Fector's Vengeance for Winter Star last year.#$b#I can't wait to play it again!$h",
+	"winter_Thu": "Can we make hot chocolate today? That would be super cool!$h",
+	"winter_Fri": "XXNPCXX said we can go outside and make an igloo. Can you come with us, XXPLAYERXX?",
+	"winter_Sat": "I saw somebody take some blankets to that weird man who lives in the tent yesterday.#$b#Should me and XXNPCXX give him some too?",
+	"winter_Sun": "XXNPCXX said we can go outside and make an igloo. Can you come with us, XXPLAYERXX?",
+
+	// Egg Festival
+	"spring_12_2": "I'm practicing being gentle. XXNPCXX said I have to be careful not to smash the eggs tomorrow.",
+	"spring_13_2": "Me and Vincent are gonna sneak up and throw eggs at Sam!$h#$b#I hope the Mayor doesn't catch us...$s",
+	// Flower Dance
+	"spring_23_2": "XXPLAYERXX, do you know how to dance? Are you and XXNPCXX going to dance?",
+	"spring_24_2": "Jas asked me to dance today but I don't know how.$s",
+
+	// Luau
+	"summer_10_2": "I can't wait to taste the yummy soup!$h",
+	"summer_11_2": "Psst... me and Vincent caught a bug to put in the soup.$h#$b#I hope Jas doesn't tell the Mayor on us.$a",
+	// Dance of the Moonlight Jellies
+	"summer_27_2": "Me, Vincent, and Jas are gonna practice catching Moonlight Jellies!",
+	"summer_28_2": "Will you and XXNPCXX watch the Jellies with me?",
+
+	// Stardew Valley Fair
+	"fall_15_2": "Hey, XXPLAYERXX, need any help with our stand tomorrow?$h#$b#I can bring a spider I found!",
+	"fall_16_2": "Can we go to the Fair yet? Can we, can we, can we?!$h",
+	// Spirit's Eve
+	"fall_26_2": "I wanted to go as Guko from Dragonboy Z tomorrow, but Vincent said he was already going as him.$s#$b#Do you think two would be okay...?",
+	"fall_27_2": "Is it true that Spirit's Eve sweets are bad for you?$s",
+
+	// Festival of Ice
+	"winter_7_2": "Jas says there's sharks in the water under the ice... is that true?$s",
+	"winter_8_2": "I wanna learn how to fish so I can be in the contest next year!",
+	// Feast of the Winter Star
+	"winter_24_2": "Oh boy, I really hope I get a Gamestation 5 this year!#$b#Vincent said his mom is getting him one!",
+	"winter_25_2": "Do you think the Winter Star is real? Are Stardrops real too?"
+
+}
